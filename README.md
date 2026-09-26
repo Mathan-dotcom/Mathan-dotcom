@@ -20,7 +20,7 @@
   <a href="https://mathan-360.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-mathan--360-000000?style=for-the-badge&logo=vercel" alt="Portfolio"/>
   </a>
-  <a href="https://www.linkedin.com/in/mathan-kumaar/">
+  <a href="[https://www.linkedin.com/in/mathan-kumaar/](https://www.linkedin.com/in/mathan-kumaar-a-916aa42b7/)">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
 

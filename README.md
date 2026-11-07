@@ -35,7 +35,7 @@
 ## 🧑‍💻 About Me
 
 ```java
-public class MathanKumaar {
+public class Mathan Kumaar {
 
     String role = "Computer Science Engineering Student";
 
